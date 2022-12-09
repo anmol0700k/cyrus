@@ -3,7 +3,7 @@ class script(object):
 
     ABOUT_TXT = """✯ ᴍy ɴᴀᴍᴇ : {}
 ❍ ᴏɴᴡᴇʀ ➪ <a href=https//t.me/basildmx>ʙᴀꜱɪʟ ᴅᴍx</a>
-❍ ᴜᴩᴅᴀᴛᴇꜱ ➪ <a href=https://t.me/+oJ1GoYnsjwUwYTI1>ᴍᴏᴠɪᴇ ᴜᴩᴅᴀᴛᴇꜱ</a>
+❍ ᴜᴩᴅᴀᴛᴇꜱ ➪ <a href=https://t.me/+6o18887HPv82Zjg1>ᴍx ᴜᴩᴅᴀᴛᴇꜱ</a>
 ❍ ʟɪʙʀᴀʀy ➪ 𝑷𝒚𝒓𝒐𝒈𝒓𝒂𝒎
 ❍ ʟᴀɴɢ ➪ 𝑷𝒚𝒕𝒉𝒐𝒏 3
 ❍ ᴠᴇʀꜱɪᴏɴ ➪ 9.8
@@ -14,8 +14,8 @@ class script(object):
 ❍ ʟᴀꜱᴛ ᴜᴩᴅᴀᴛᴇ  ➪ 11 ᴅᴇᴄ"""
 
     SOURCE_TXT = """<b>NOTE:</b>
-- ᴍᴏᴠɪᴇ ʙᴏᴛ ɪꜱ ɴᴏᴛ ᴀ ᴏᴩᴇɴ ꜱᴏᴜᴄʀᴇ ʙᴏᴛ (ʀᴇᴩᴏ ɪꜱ ᴩʀɪᴠᴀᴛᴇ) 
-- ᴜᴩᴅᴀᴛᴇꜱ :<a href=https//t.me/dmx_bots>ᴅᴍx ʙᴏᴛꜱ</a>
+- ʟɪꜱᴀ ʙᴏᴛ ɪꜱ ɴᴏᴛ ᴀ ᴏᴩᴇɴ ꜱᴏᴜᴄʀᴇ ʙᴏᴛ (ʀᴇᴩᴏ ɪꜱ ᴩʀɪᴠᴀᴛᴇ) 
+- ᴜᴩᴅᴀᴛᴇꜱ <a href=https//t.me/dmx_bots>ᴅᴍx ʙᴏᴛꜱ</a>
 
 <b>DEV:</b>
 - 𝙳𝚎𝚟 1 <a href=https://t.me/basildmx>ʙᴀꜱɪʟ ᴅᴍx</a>

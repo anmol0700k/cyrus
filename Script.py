@@ -1,25 +1,18 @@
 class script(object):   
-    HELP_TXT = """𝙷𝙴𝚈 {}\n𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
-
-    ABOUT_TXT = """✯ ᴍy ɴᴀᴍᴇ : {}
-❍ ᴏɴᴡᴇʀ ➪ <a href=https//t.me/basildmx>ʙᴀꜱɪʟ ᴅᴍx</a>
-❍ ᴜᴩᴅᴀᴛᴇꜱ ➪ <a href=https://t.me/+6o18887HPv82Zjg1>ᴍx ᴜᴩᴅᴀᴛᴇꜱ</a>
-❍ ʟɪʙʀᴀʀy ➪ 𝑷𝒚𝒓𝒐𝒈𝒓𝒂𝒎
-❍ ʟᴀɴɢ ➪ 𝑷𝒚𝒕𝒉𝒐𝒏 3
-❍ ᴠᴇʀꜱɪᴏɴ ➪ 9.8
-❍ ꜱᴛᴀᴛᴜꜱ ➪ 𝑷𝒖𝒃𝒍𝒊𝒄
-❍ ᴅᴀᴛᴀ ʙᴀꜱᴇ ➪ 𝑴𝒐𝒏𝒈𝒐 𝑫𝑩 / ʀᴇᴅɪꜱ / ꜱqʟ
-❍ ꜱᴇʀᴠᴇʀ ➪ 𝑯𝒆𝒓𝒐𝒌𝒖 ᴩᴀɪᴅ
-❍ ʙᴜɪʟᴅ ꜱᴛᴀᴛꜱ  ➪ 𝚅9.7.94 [ᴍᴀᴊᴏʀ 9.7]
-❍ ʟᴀꜱᴛ ᴜᴩᴅᴀᴛᴇ  ➪ 11 ᴅᴇᴄ"""
-
+    HELP_TXT = """𝙷𝙴𝚈 {}
+𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
+    ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
+○ 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 : <a href=https://t.me/Anmol0700>[ɪɴᴅɪᴀɴ ᴛᴏɴʏ ꜱᴛᴀʀᴋ]</a>
+○ 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾 : 𝖯𝗒𝗍𝗁𝗈𝗇 𝟥 
+○ 𝖫𝗂𝖻𝗋𝖺𝗋𝗒 : 𝖯𝗒𝗋𝗈𝗀𝗋𝖺𝗆 𝖺𝗌𝗒𝗇𝖼𝗂𝗈 𝟢.𝟣𝟩.𝟣 
+○ 𝖲𝖾𝗋𝗏𝖾𝗋 : Heroku 
+○ 𝖣𝖺𝗍𝖺𝖻𝖺𝗌𝖾 : <a href=https://www.mongodb.com/>𝖬𝗈𝗇𝗀𝗈𝖣𝖡 𝖥𝗋𝖾𝖾 𝖳𝗂𝖾𝗋</a>
+○ 𝖡𝗎𝗂𝗅𝖽 𝖲𝗍𝖺𝗍𝗎𝗌 : 𝖵9.8 [BeTa]"""
     SOURCE_TXT = """<b>NOTE:</b>
-- ʟɪꜱᴀ ʙᴏᴛ ɪꜱ ɴᴏᴛ ᴀ ᴏᴩᴇɴ ꜱᴏᴜᴄʀᴇ ʙᴏᴛ (ʀᴇᴩᴏ ɪꜱ ᴩʀɪᴠᴀᴛᴇ) 
-- ᴜᴩᴅᴀᴛᴇꜱ <a href=https//t.me/dmx_bots>ᴅᴍx ʙᴏᴛꜱ</a>
-
-<b>DEV:</b>
-- 𝙳𝚎𝚟 1 <a href=https://t.me/basildmx>ʙᴀꜱɪʟ ᴅᴍx</a>
-"""
+- 𝗧𝗵𝗶𝘀 𝗜𝘀 𝗡𝗼𝘁 𝗔 𝗢𝗽𝗲𝗻 𝗦𝗼𝘂𝗿𝗰𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁. 
+- Source -  <a href=https://t.me/+zSBT7Ednrf9kN2Y1>[ɪɴᴅɪᴀɴ ᴛᴏɴʏ ꜱᴛᴀʀᴋ]</a>
+<b>DEVS:</b>
+- <a href=https://t.me/+zSBT7Ednrf9kN2Y1>[ɪɴᴅɪᴀɴ ᴛᴏɴʏ ꜱᴛᴀʀᴋ]</a>"""
 
     FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
 
@@ -33,9 +26,9 @@ class script(object):
 
 ⪼ 𝐄𝐱𝐚𝐦𝐩𝐥𝐞 ›
 
-<code>/batch https://t.me/dmx_bots https://t.me/dmx_bots</code>
+<code>/batch https://t.me/dmx_bots https://t.me/Anmol0700</code>
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https//t.me/basildmx><b>ʙᴀꜱɪʟ ᴅᴍx</b></a>"""
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https//t.me/Anmol0700><b>ɪɴᴅɪᴀɴ ᴛᴏɴʏ ꜱᴛᴀʀᴋ</b></a>"""
     
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
@@ -190,7 +183,7 @@ By @{} """
 
 ➪ 𝖩𝗎𝗌𝗍 𝗌𝖾𝗇𝖽 𝗆𝖾 𝖺 𝗂𝗆𝖺𝗀𝖾 𝗍𝗈 𝖾𝖽𝗂𝗍 ✨
 
-𝖬𝖺𝖽𝖾 𝖻𝗒 <a href=https://t.me/basildmx>basil dmx</a>"""
+𝖬𝖺𝖽𝖾 𝖻𝗒 <a href=https://t.me/Anmol0700 ɪɴᴅɪᴀɴ ᴛᴏɴʏ ꜱᴛᴀʀᴋ</a>"""
 
     RESTRIC_TXT = """➤ 𝐇𝐞𝐥𝐩: Mᴜᴛᴇ 🚫
 
